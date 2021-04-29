@@ -1,3 +1,7 @@
+# About this repository
+
+This is a part of an interview assessment process I wrote as part of a hiring process. The rest of this readme is the original assessment documentation.
+
 # Technical Interview Assessment
 
 Thank you for participating in the technical interview assessment! This assessment is designed to test your skill set for feature design and bug fixes in the following areas:
